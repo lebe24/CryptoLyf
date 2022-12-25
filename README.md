@@ -1,4 +1,5 @@
 # Flutter Crypto App
+<img src="cryto.png" width="300">
 
 ## Screenshots
 <p align="center">
